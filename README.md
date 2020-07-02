@@ -1,4 +1,4 @@
-# Rock-Paper_Scissor
+# Rock-Paper-Scissor
 Just bringing back the classics.
 Kept it the old skool way.
 
