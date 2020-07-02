@@ -148,3 +148,17 @@ div.fadeIn{
 		transform:  translateY(0px)
 	}
 }
+#footer{
+	position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:rgb(7, 6, 10);	
+}
+#footer p{
+	color: thistle ;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
